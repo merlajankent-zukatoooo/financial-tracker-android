@@ -1,0 +1,13 @@
+FINANCIAL TRACKER — BUILD APK
+
+1. Unzip everything.
+2. Upload ALL extracted files/folders to the ROOT of financial-tracker-android on GitHub.
+   Check that settings.gradle and app/ are visible in Code.
+3. Open Actions -> Build Financial Tracker APK -> Run workflow.
+4. After a green successful build, download Financial-Tracker-APK from Artifacts.
+5. Extract to get app-debug.apk. Install it on Android.
+
+Your APK opens: https://finapp-ffbfa.web.app/
+Its Firebase records come from your existing hosted site.
+
+Read README.md for details and troubleshooting.
